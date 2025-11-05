@@ -1,0 +1,2 @@
+source C:/esp/receptor_s/esp-idf-sx127x/basic/build/gdbinit/symbols
+source C:/esp/receptor_s/esp-idf-sx127x/basic/build/gdbinit/connect
